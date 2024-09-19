@@ -30,7 +30,7 @@ function dadosCliente() {
 
     let pedidoText = `
         <p class="pedido-text">Pedido Realizado,<br>
-            <span class="Cris"> Delícias da Cris  <br> Agradece!</span><br><hr>
+            <span class="Agradecimento"> Obrigado pelo <br> pedido!</span><br><hr>
             <span class="pedido">Produto:</span> ${produto}<br>
             <span class="pedido">Bolo:</span> ${bolo}<br>
             <span class="pedido">Recheio:</span> ${recheio}<br>
